@@ -1,6 +1,6 @@
 public class Algorhythm {
 
-  public static main(){
+  public static main(String [] args){
     Stopwatch sw = new StopWatch();
     sw.start();
     SerializedDataCntl.getSerializedDataCntl().getSerializedDataModel();
